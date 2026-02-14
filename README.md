@@ -1,88 +1,43 @@
-# Hi 👋 I'm Rushikesh Rajesh Patil
+<h1 align="center">Hi 👋, I'm Rushikesh Rajesh Patil</h1>
 
-🎓 Computer Science Engineering Graduate  
-💻 Aspiring Software Development Engineer (SDE-1)  
-📍 Belagavi, Karnataka, India  
+<p align="center">
+<b>Full Stack Developer | Java Developer</b>
+</p>
 
----
-
-## 🚀 Professional Summary
-Motivated and detail-oriented graduate seeking an entry-level Software Development Engineer role. 
-Strong foundation in data structures, algorithms, and software design principles. Passionate about 
-writing clean, efficient, and reliable code while contributing to high-quality software solutions.
-
----
-
-## 🛠 Skills
-
-### Programming Languages
-- Java
-- JavaScript
-
-### Web Technologies
-- HTML
-- CSS
-- Web Components
-
-### Database
-- MySQL
+<p align="center">
+Full-stack developer with a strong foundation in Java, MySQL, and modern web technologies. 
+Skilled in building responsive web applications, implementing authentication systems, and 
+developing scalable backend solutions. Passionate about writing clean code, solving real-world 
+problems, and continuously learning new technologies.
+</p>
 
 ---
 
-## 💼 Experience
+## 🤝 Connect with me:
 
-### Software Development Intern — Kodnest Technologies
-📅 Feb 2025 – May 2025 | Bengaluru, India  
+<p align="left">
+<a href="mailto:ruship5603@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-- Worked on Java, MySQL, frontend technologies, and manual testing  
-- Contributed to real-world software projects  
-- Learned industry development practices and collaboration
-
----
-
-## 📂 Projects
-
-### 📘 Learn Sphere – Online Learning Platform
-**Tech:** HTML, CSS, JavaScript, MySQL  
-
-- Built full-stack online learning platform  
-- Secure user authentication & course management  
-- Payment integration and responsive UI/UX  
-- Applied OOP, DBMS & software engineering principles
+<a href="https://linkedin.com/in/rushikeshpatil03">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a> 
 
 ---
 
-### 💻 Synced Script – Real-time Code Editor
-**Tech:** MERN Stack, TypeScript  
+## 💻 Languages and Tools:
 
-- Developed collaborative code editor  
-- Implemented WebSocket live collaboration  
-- Responsive UI with customization options
-
----
-
-## 🎓 Education
-
-🎓 **Bachelor of Engineering (CSE)**  
-Jain College of Engineering and Research (2021–2025)  
-CGPA: **8.154**
-
-🏫 Class 12 – 86.5%  
-🏫 Class 10 – 90.08%
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,react,nodejs,git,docker,aws,spring" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-**Student Development Program Speaker & Mentor**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushipfq242441&show_icons=true&theme=tokyonight)
 
-- Delivered sessions on Hackathons, IoT & AI tools  
-- Encouraged innovation and real-world tech applications
+![GitHub Streak](https://streak-stats.demolab.com?user=rushipfq242441&theme=tokyonight)
 
----
-
-## 📫 Connect With Me
-
-- 📧 ruship5603@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/rushikeshpatil03
-- 💻 GitHub: https://github.com/rushipfq242441
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushipfq242441&layout=compact&theme=tokyonight)
