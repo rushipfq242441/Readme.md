@@ -24,6 +24,9 @@ problems, and continuously learning new technologies.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> 
 
+<a href="https://raw.githubusercontent.com/rushipfq242441/Resume/main/Rushikesh-Rajesh-Patil%20resume.pdf">
+<img src="https://img.icons8.com/fluency/48/resume.png" height="48"/>
+</a>
 ---
 
 ## 💻 Languages and Tools:
