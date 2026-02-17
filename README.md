@@ -24,7 +24,7 @@ real-world problems, and continuously learning new technologies.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> 
 
-<a href="https://raw.githubusercontent.com/rushipfq242441/Resume/main/Rushikesh-Rajesh-Patil%20resume.pdf">
+<a href="https://raw.githubusercontent.com//RushikeshRPatil/Resume/main/Rushikesh-Rajesh-Patil%20resume.pdf">
 <img src="https://img.icons8.com/fluency/48/resume.png" height="48"/>
 </a>
 </p>
@@ -49,5 +49,5 @@ real-world problems, and continuously learning new technologies.
 </p>-->
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rushipfq242441&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=RushikeshRPatil&theme=tokyonight"/>
 </p>
